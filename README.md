@@ -73,27 +73,6 @@ Before running this project, ensure you have:
 
 ---
 
-## 🏃 How to Run the Application  
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Raj-Satyam1206/CryptoBucks.git
-   cd CryptoBucks
-   ```  
-
-2. **Install dependencies**  
-   ```bash
-   npm install
-   ```  
-
-3. **Start the development server**  
-   ```bash
-   npm start
-   ```  
-
-4. Open **http://localhost:3000/** in your browser 🎉  
-
----
 
 ## 🔮 Future Enhancements  
 - 🔐 Add **user authentication** for personalization  
